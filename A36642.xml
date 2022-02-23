@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mac Flecknoe, or, A satyr upon the true-blew-Protestant poet, T. S. by the author of Absalom &amp; Achitophel.</title>
+            <author>Dryden, John, 1631-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36642</idno>
+            <idno type="STC">Wing D2303</idno>
+            <idno type="STC">ESTC R182</idno>
+            <idno type="EEBO-CITATION">11774841</idno>
+            <idno type="OCLC">ocm 11774841</idno>
+            <idno type="VID">48940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 489:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mac Flecknoe, or, A satyr upon the true-blew-Protestant poet, T. S. by the author of Absalom &amp; Achitophel.</title>
+                  <author>Dryden, John, 1631-1700.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. Green,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>An attack, in verse, on Thomas Shadwell.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shadwell, Thomas, (1642?-1692) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48940:1"/>
+            <pb facs="tcp:48940:1" rendition="simple:additions"/>
+            <p>Mac Flecknoe, OR A SATYR UPON THE <hi>TRUE-BLEW-PROTESTANT</hi> POET, T. S.</p>
+            <p>By the Author of <hi>ABSALOM</hi> &amp; <hi>ACHITOPHEL</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. Green,</hi> 1682.</p>
+            <pb facs="tcp:48940:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:48940:2"/>
+            <head>Mac Flecknoe, OR A SATYR UPON THE <hi>True-Blew-Proteſtant POET,</hi> T. S.</head>
+            <lg>
+               <l>ALL humane things are ſubject to decay,</l>
+               <l>And when Fate Summons, Monarch's muſt obey;</l>
+               <l>This <hi>Flecknoe</hi> found, who like <hi>Auguſtus</hi> young,</l>
+               <l>Was call'd to Empire, and had Govern'd long;</l>
+               <l>In Proſe and Verſe was own'd without Diſpute,</l>
+               <l>Through all the Realms of Nonſenſe, Abſolute;</l>
+               <l>This Aged Prince now flouriſhing in Peace,</l>
+               <l>And bleſt with Iſſue of a large Increaſe,</l>
+               <l>Worn out with Buſineſs, did at length Debate,</l>
+               <l>To ſettle the Succeſſion of the State,</l>
+               <l>And Pond'ring, which of all his Sons were fit</l>
+               <l>To Reign, and Wage Immortal Wars, with Wit,</l>
+               <l>
+                  <pb n="4" facs="tcp:48940:3"/>
+Cry'd, 'tis Reſolv'd (for Nature pleads, that he</l>
+               <l>Should only Rule, who moſt reſembles me,)</l>
+               <l>
+                  <hi>Shad—</hi> alone my perfect Image Bears,</l>
+               <l>Mature in Dulneſs from his Tender Years;</l>
+               <l>
+                  <hi>Shad—</hi> alone of all my Sons, is He</l>
+               <l>Who ſtands confirm'd in full Stupidity;</l>
+               <l>The reſt, to ſome faint meaning make Pretence,</l>
+               <l>But <hi>Shad—</hi> never deviates into Sence;</l>
+               <l>Some Beams of Wit on other Souls may Fall,</l>
+               <l>Strike through and make a Lucid Interval;</l>
+               <l>But <hi>Shad—</hi> Genuine Night admits no Ray,</l>
+               <l>His riſing Fogs prevail upon the Day;</l>
+               <l>Beſides, his goodly Fabrick fills the Eye,</l>
+               <l>And ſeems deſign'd for thoughtleſs Majeſty;</l>
+               <l>Thoughtleſs as Monarch Oaks that ſhade the Plain,</l>
+               <l>And ſpread in ſolemn State<g ref="char:punc">▪</g> ſupinely Reign;</l>
+               <l>
+                  <hi>Heywood</hi> and <hi>Shirly</hi> were but Types of Thee,</l>
+               <l>Thou laſt great Prophet of Tautology.</l>
+               <l>Ev'n I a Dunce of more renown then they,</l>
+               <l>Was ſent before but to prepair thy way;</l>
+               <l>
+                  <pb n="5" facs="tcp:48940:3"/>
+I courſly Cloath'd in Drugget Ruſſet, came</l>
+               <l>To teach the Nations in thy greater name;</l>
+               <l>My warbling Lute, the Lute I whilome ſtrung<g ref="char:punc">▪</g>
+               </l>
+               <l>When to King <hi>John</hi> of <hi>Portugal</hi> I Sung,</l>
+               <l>Was but a prelude to that Glorious Day,</l>
+               <l>When thou on Silver <hi>Thames</hi> didſt cut thy Way,</l>
+               <l>With well tim'd Oars before the Royal-Barge,</l>
+               <l>Swell'd with the Pride of thy Caeleſtial Charge,</l>
+            </lg>
+            <lg>
+               <l>And big with Hymn, Commanders of an Hoſt,</l>
+               <l>The like was nere in <hi>Epſom</hi> Blankets Toſt.</l>
+               <l>Methinks I ſee the new <hi>Arion</hi> Sail,</l>
+               <l>The Lute ſtill Trembles underneath thy Nail;</l>
+               <l>At thy well ſharpned Thumb, from Shore to Shore</l>
+               <l>The Treble ſqueaks for fear, the Baſes Rore;</l>
+               <l>Eccho from <hi>Piſſing-Alley, Shad—</hi>Call,</l>
+               <l>And <hi>Shad—</hi> they reſound from <hi>Aſton-Hall;</hi>
+               </l>
+               <l>About thy Boat the little Fiſhes throng,</l>
+               <l>And gently waft the over all along;</l>
+               <l>Sometimes as Prince of thy Harmonious Band,</l>
+               <l>Thou weild'ſt thy Paper in thy Thraſhing-Hand.</l>
+               <l>
+                  <pb n="6" facs="tcp:48940:4"/>
+St. <hi>Andrew's</hi> Feet ne're kept more equal Time,</l>
+               <l>Not even the Feet of thy own <hi>Pſyches</hi> Rhime;</l>
+               <l>Tho they in Number, as in Sence excel,</l>
+               <l>So Juſt, ſo like Tautology they fell;</l>
+               <lg>
+                  <l>That Pale with Envy <hi>Singleton</hi> forſwore</l>
+                  <l>The Lute and Sword, which he in Triumph wore,</l>
+                  <l>And Vow'd he ne're would Act <hi>Villerius</hi> more,</l>
+               </lg>
+               <l>Here ſtopt the good old Sire, and wept for Joy,</l>
+               <l>In ſilent Raptures of the Hopeful Boy;</l>
+               <l>All Arguments (but moſt his Plays) perſuade,</l>
+               <l>That for Anointed Dulneſs he was made.</l>
+            </lg>
+            <lg>
+               <l>Cloſe by the Walls which fair <hi>Auguſta-Bind,</hi>
+               </l>
+               <l>(The fair <hi>Auguſta</hi> much to Fears Inclin'd)</l>
+               <l>An Ancient Fabrick rais'd t' Inform the ſight,</l>
+               <l>There ſtood of Yore (and <hi>Barbican</hi> it Hight,)</l>
+               <l>A Watch-Tower once, but now (ſo Fate ordeins)</l>
+               <l>An Empty name of all the Pile Remains;</l>
+               <l>From its old Ruins Brothel-Houſes riſe,</l>
+               <l>Scenes of lewd Love, and of Polluted Joys;</l>
+               <l>
+                  <pb n="7" facs="tcp:48940:4"/>
+Where their vaſt Courts the Mother-Strumpets keep,</l>
+               <l>And undiſturb'd by Watch, in ſilence ſleep;</l>
+               <l>Near theſe a Nurſery Erects its Head,</l>
+               <l>Where Queens are Form'd, and future Heroes Bred,</l>
+               <lg>
+                  <l>Where unfledg'd Actors learn to Laugh and Cry,</l>
+                  <l>Where Infant Puncks their tender Voices try,</l>
+                  <l>And little <hi>Maximins</hi> the Gods Defie.</l>
+               </lg>
+               <l>Great <hi>Fletcher</hi> never treads in Buskins here,</l>
+               <l>Nor greater <hi>Johnſon</hi> dares in Socks appear;</l>
+               <l>But gentle <hi>Simpkin</hi> juſt reception finds</l>
+               <l>Amidſt theſe Monuments of Varniſht Minds:</l>
+               <l>Pure Clinches the <hi>Suburbane</hi> Muſe Affords,</l>
+               <l>And <hi>Panton</hi> waging Harmleſs War with Words;</l>
+               <l>Here <hi>Flecknoe</hi> as a place to Fame well known,</l>
+               <l>Ambitiouſly deſign'd his <hi>Shad—</hi> Throne.</l>
+               <lg>
+                  <l>For ancient <hi>Decker</hi> Prophecy'd long ſince,</l>
+                  <l>That in this Iſle ſhould Reign a mighty Prince,</l>
+                  <l>Born for a Scourge of Wit, and Flaile of Sence;</l>
+               </lg>
+               <l>To whom true Dulneſs ſhould ſome <hi>Pſyche's</hi> owe,</l>
+               <l>But Worlds of <hi>Miſers</hi> from his Pen ſhould flow:</l>
+               <l>
+                  <pb n="8" facs="tcp:48940:5"/>
+Humoriſts and Hypocrite's his Pen ſhould produce</l>
+               <l>Whole <hi>Raymond</hi> Families and Tribes of <hi>Bruce;</hi>
+               </l>
+               <l>Now Empreſs Fame had Publiſh'd the Renown</l>
+               <l>Of <hi>Shad—</hi>s Coronation through the Town;</l>
+               <l>Rous'd by report of Pomp, the Nations meet</l>
+               <l>From near <hi>Bunhill,</hi> to diſtant <hi>Watlingſtreet;</hi>
+               </l>
+               <l>No <hi>Perſian</hi> Carpet ſpread th' <hi>Imperial</hi> way,</l>
+               <l>But ſcattered Limbs of Mangled Poets lay;</l>
+               <l>From Duſty Shops neglected Authors come,</l>
+               <l>Martyrs of Pies, and Reliques of the Bum;</l>
+               <l>Much <hi>Heywood, Shirly, Ogilby,</hi> there lay,</l>
+               <l>But Loads of <hi>Shad—</hi> almoſt Choak'd the way;</l>
+               <l>Bilk'd Stationers for Yeomen ſtood prepar'd,</l>
+               <l>And <hi>Herringman</hi> was Captain of the Guard;</l>
+               <l>The Hoary Prince in Majeſty appear'd</l>
+               <l>High on a State of his own Labors rear'd;</l>
+               <l>At his Right-Hand our young <hi>Aſcanius</hi> Sate,</l>
+               <l>
+                  <hi>Romes</hi> other Hope, and Pillar of the State;</l>
+               <l>His Brows thick Fogs, inſtead of Glories-Grace,</l>
+               <l>And Lambent Dulneſs plaid about his Face.</l>
+               <l>
+                  <pb n="9" facs="tcp:48940:5"/>
+As <hi>Hannible</hi> did to the Akars come,</l>
+               <l>Sworn by his Sire a Mortal Foe to <hi>Rome;</hi>
+               </l>
+               <l>So <hi>Shad—</hi> Sworn, not ſhould his Vow be vain<g ref="char:punc">▪</g>
+               </l>
+               <l>That he to Death true Dulneſs would maintain;</l>
+               <l>And in his Fathers Right and Realms Defence,</l>
+               <l>Wou'd bid defiance unto Wit and Senſe;</l>
+               <l>The King himſelf the Sacred Unction made,</l>
+               <l>As King by Office, and as Prieſt by Trade;</l>
+               <l>In his Siniſter-Hand, inſtead of Ball,</l>
+               <l>Was plac'd a mighty Mug of Potent Ale.</l>
+               <l>Love's Kingdom to his Right he did Convey,</l>
+               <l>At once his Scepter, and his Rule of Sway;</l>
+               <l>Whoſe Righteous Love the Prince had practic'd Young,</l>
+               <l>And from whoſe Loins Recorded <hi>Pſyche</hi> Sprung;</l>
+               <l>His Temples (laſt) with Poppey were o'reſpread,</l>
+               <l>That Nodding ſeem'd to Conſecrate his Head<g ref="char:punc">▪</g>
+               </l>
+               <l>Juſt at that point of time, (of Fame not lie<g ref="char:punc">▪</g>)</l>
+               <l>On his Left-Hand <hi>Twelve Reverend Owls</hi> did flie;</l>
+               <l>So <hi>Romulus</hi> ('tis Sung) by <hi>Tiber</hi>'s Brook,</l>
+               <l>Preſage of Sway from Twice ſix Vultures took;</l>
+               <l>
+                  <pb n="10" facs="tcp:48940:6"/>
+Th' advancing throng loud Acclamations make,</l>
+               <l>And Omens of the future Empire take;</l>
+               <l>The Sire then ſhook the Honours on his head,</l>
+               <l>And from his brows damps of Oblivion Shed:</l>
+               <lg>
+                  <l>Full of the filial Dulneſs long he ſtood,</l>
+                  <l>Repelling from his Breſt the Raging God,</l>
+                  <l>At length burſt out in this Prophetick Mood.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Heaven bleſs my Son, from <hi>Ireland</hi> let him Reign</l>
+               <l>To fair <hi>Barbadoes</hi> on the Weſtern Mayn,</l>
+               <l>Of his Dominion may no end be known,</l>
+               <l>And greater than his Fathers be his Throne;</l>
+               <l>Beyond loves Kingdoms may he ſttetch his Pen,</l>
+               <l>He paws'd—and all the People <hi>cry'd—Amen.</hi>
+               </l>
+               <l>Then thus continued he, my Son advance</l>
+               <l>Still in new Impudence, new Ignorance,</l>
+               <l>Succeſs let others teach, learn thou from me,</l>
+               <l>Pangs without Birth, a fruitleſs Induſtry.</l>
+               <l>Let <hi>Virtuoſo</hi>'s in five Years be Writ,</l>
+               <l>Yet not one thought accuſe thy Soul of Wit;</l>
+               <l>
+                  <pb n="11" facs="tcp:48940:6"/>
+Let Gentle <hi>George</hi> with Triumph Tread the Stage,</l>
+               <l>Make <hi>Dorimant</hi> betray, and <hi>Loveit</hi> rage,</l>
+               <l>Let Cully <hi>Cockwood, Fopling</hi> charm the Pit,</l>
+               <l>And in their folly ſhow the Writers Wit;</l>
+               <l>Yet ſtill thy fools ſhall ſtand in thy Defence,</l>
+               <l>And juſtifie their Authors want of Senſe,</l>
+               <l>Let them be all of thy own Model made</l>
+               <l>Of Dulneſs; and deſire no Forreign Aid,</l>
+               <l>That they to after Ages may be known,</l>
+               <l>Not Copies drawn, but Iſſues of thine own;</l>
+               <l>Nay, let thy Men of Wit too be the ſame,</l>
+               <l>All like to thee, and diffring but in Name;</l>
+               <l>But let no Alien <hi>Sydney</hi> Interpoſe,</l>
+               <l>To lard with Wit thy hungry <hi>Epſome</hi> Proſe:</l>
+               <l>And when falſe Flowers of Rhet'rick thou wouldſt cull</l>
+               <l>Truſt Nature, do not labour to be dull;</l>
+               <l>But Write thy beſt on th' top, and in each line</l>
+               <l>Sir <hi>Formal</hi>'s Oratory Wit be thine;</l>
+               <l>Sir <hi>Formal</hi> tho unſought attends thy Quill,</l>
+               <l>And doth thy Northern Dedications fill</l>
+               <l>
+                  <pb n="12" facs="tcp:48940:7"/>
+Nor let falſe Friends ſeduce thy Mind to Fame,</l>
+               <l>By Arrogating <hi>Johnſon's</hi> Hoſtile Name;</l>
+               <l>Let Father <hi>Flecknoe</hi> Fire thy Mind with Praiſe,</l>
+               <l>And Uncle <hi>Ogleby</hi> thy Envy raiſe;</l>
+               <l>Thou art my Blood where <hi>Johnſon</hi> hath no Part,</l>
+               <l>What ſhare have we in Nature, or in Art?</l>
+               <l>Where did his Wit or Learning fix a <hi>Brand?</hi>
+               </l>
+               <l>Or rail at Arts he did not underſtand?</l>
+               <l>Where made he love in <hi>Prince Nycanders</hi> Vain?</l>
+               <l>Or ſwept the Durſt in <hi>Pſyches</hi> humble Strain?</l>
+               <l>Where ſold he Bargains? <hi>Whip-ſtich, Kiſs mine A—s,</hi>
+               </l>
+               <l>Promis'd a Play, and dwindled to a Farce.</l>
+               <l>Where did his Muſe from <hi>Fletchers</hi> Scenes purloin,</l>
+               <l>As thou whole <hi>Etheridge</hi> doſt transfuſe to thine?</l>
+               <l>But ſo transfus'd as Oyls on Water Flow,</l>
+               <l>His always Floats above, thine Sinks Below;</l>
+               <l>This is thy Promiſe, this thy wondrous Way,</l>
+               <l>New Humours to Invent for each New Play;</l>
+               <l>This is that Boaſted Bias of the Mind,</l>
+               <l>By which one way to Dulneſs 'tis Inclin'd;</l>
+               <l>
+                  <pb n="13" facs="tcp:48940:7"/>
+Which makes thy Writings lame on one ſide ſtill,</l>
+               <l>And in all Charges, that way bends thy will;</l>
+               <l>Nor let thy Mountain Belly make Pretence,</l>
+               <l>Of likeneſs, thine's a Tympany of Sence.</l>
+               <l>A <hi>Tun</hi> of Man in thy <hi>large Bulk</hi> is Writ.</l>
+               <l>But ſure thou art a <hi>Kilderkin</hi> of Wit;</l>
+               <l>Like mine thy Gentle Numbers feebly creep,</l>
+               <l>Thy Tragick Muſe gives Smiles, thy Comick ſleep;</l>
+               <l>With what e're Gall thou ſets thy ſelf to write,</l>
+               <l>Thy Inoffenſive Satyrs never bite;</l>
+               <l>In thy Felonious Heart, though Venom lies,</l>
+               <l>It doth but touch thy Iriſh Pen and dies;</l>
+               <l>Thy Genious calls the not to purchaſe Fame,</l>
+               <l>In keen <hi>Iambicks,</hi> but wild <hi>Anagram;</hi>
+               </l>
+               <l>Leave writing Plays, and chooſe for thy Command,</l>
+               <l>Some peaceful Province in <hi>Acroſtick</hi> Land.</l>
+               <l>There thou mayſt Wings diſplay, and Alters raiſe,</l>
+               <l>And torture one poor Word ten thouſand ways;</l>
+               <l>Or if thou wouldſt thy different Talent ſuite,</l>
+               <l>Set thy one Songs, and Sing them to thy Lute<g ref="char:punc">▪</g>
+               </l>
+               <lg>
+                  <pb n="14" facs="tcp:48940:8"/>
+                  <l>He ſaid, but his laſt words were ſcarcely heard</l>
+                  <l>For <hi>Bruce</hi> and <hi>Longvile</hi> had a Trap prepar'd</l>
+                  <l>And down they ſent the yet declining <hi>Bard;</hi>
+                  </l>
+               </lg>
+               <l>Sinking, he left the Drugget Robes behind,</l>
+               <l>Born upwards by a Subteranean Wind,</l>
+               <l>The Mantle fell to the young Prophets part</l>
+               <l>With doubled Portion of his Fathers Art.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>A Gentleman having a curious Colection of Poetry by the moſt Ingenious of the Age, Intends to oblige the World with a Poem every <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> Morning, and with all New ones as they come to his hand.</p>
+            <p>Sold by moſt Bookſellers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
